@@ -1,1 +1,5 @@
 # tutorials
+
+[[superduper]]
+
+[[ideal]]
