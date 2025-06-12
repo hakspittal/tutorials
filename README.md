@@ -1,5 +1,5 @@
 # tutorials
 
-[[superduper]]
+[superduper](superduper.md)
 
-[[ideal]]
+[ideal](ideal.md)
