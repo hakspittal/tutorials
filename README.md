@@ -1,5 +1,1 @@
-# tutorials
-
-[superduper](superduper.md)
-
-[ideal](ideal.md)
+Automated Tutorials!!!
